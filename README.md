@@ -1,3 +1,5 @@
+# Pizza Analysis in SQL
+
 The Pizza Restaurant Sales Data Exploration project in SQL focuses on extracting insights from a Pizza Sales dataset using Microsoft SQL.
 The project demonstrates various SQL techniques, including temporary tables, common table expressions (CTEs), subqueries, mathematical functions, and aggregation, to derive meaningful metrics from the dataset.
 
